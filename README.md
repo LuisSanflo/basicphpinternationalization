@@ -1,4 +1,4 @@
-# basicphpinternationalization
+# Basic PHP Internationalization
 Basic php internationalization class
 
 #ENG
