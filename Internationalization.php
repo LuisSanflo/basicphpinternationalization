@@ -1,6 +1,6 @@
 <?php
 /**
- * Class Internacionalizacion
+ * Class Internationalization
  *
  * With this class you can change between languages, to add a language just add another array with the language
  * following the name conventions $(language code)_translation ex: $fr_translation for french.
@@ -12,7 +12,7 @@
  *
  * @author luissanflo
  */
-class Internacionalizacion
+class Internationalization
 {
     /**
      * Spanish translations array
@@ -42,7 +42,7 @@ class Internacionalizacion
     private $languageCode;
 
     /**
-     * Internacionalizacion constructor.
+     * Internationalization constructor.
      *
      * @param string $languageCode
      *
